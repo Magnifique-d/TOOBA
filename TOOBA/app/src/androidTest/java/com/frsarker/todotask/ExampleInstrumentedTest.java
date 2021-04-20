@@ -1,10 +1,4 @@
-package com.frsarker.todotask;
-
-import android.content.Context;
-
-import androidx.test.platform.app.InstrumentationRegistry;
-import androidx.test.ext.junit.runners.AndroidJUnit4;
-
+package com.frsarker.Tooba
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
