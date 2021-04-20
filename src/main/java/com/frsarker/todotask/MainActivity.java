@@ -1,4 +1,4 @@
-package com.frsarker.Tooba;
+package com.Tooba.Tooba;
 
 import android.content.Intent;
 import android.database.Cursor;
