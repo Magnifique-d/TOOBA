@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDo Task</string>
+    <string name="add_task">Add Task</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="today_s_tasks">Today\'s Tasks</string>
+    <string name="tomorrow_s_tasks">Tomorrow\'s Tasks</string>
+    <string name="upcoming_tasks">Upcoming Tasks</string>
+    <string name="hey">Hey</string>
+    <string name="you_are_nfree_today">you are\nfree today</string>
+    <string name="you_have_no_task_to_do_today">You have no task to do today</string>
+    <string name="task_name">Task Name</string>
+    <string name="save">SAVE</string>
+    <string name="what_are_you_planning">What are you planning?</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="_29_05_2020">29/05/2020</string>
+    <string name="new_task">New Task</string>
+</resources>
