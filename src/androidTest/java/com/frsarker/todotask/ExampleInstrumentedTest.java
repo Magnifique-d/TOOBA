@@ -1,4 +1,4 @@
-package com.frsarker.todotask;
+package com.frsarker.Tooba;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.frsarker.todotask", appContext.getPackageName());
+        assertEquals("com.frsarker.Tooba", appContext.getPackageName());
     }
 }
